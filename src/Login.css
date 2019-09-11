@@ -1,0 +1,28 @@
+.layout {
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paper {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px;
+}
+
+.avatar {
+    margin: 10px;
+    background: purple;
+}
+
+.form {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.submit {
+    margin-top: 20px;
+}
